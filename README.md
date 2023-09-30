@@ -1,0 +1,2 @@
+# Bank_Marketing_analysis
+Bank of Corporate conducted a telemarketing campaign for one of its financial products, ‘Term deposits’, to build a long-term relationship with the existing customers. Your goal is to identify the target customers for the term deposits from the pool of the bank’s existing customers. You should also capture the key driving factors (or driver variables) behind the successful conversion of a customer, i.e., the customer opening a term deposit account with the bank.
